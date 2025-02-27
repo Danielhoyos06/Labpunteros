@@ -37,7 +37,7 @@ int main(int argc, char *argv[]) {
         return 1;
     }
 
-    // Convertir argumentos a los tipos adecuados
+    // Convertir argumentos a enteros
     int entero1 = atoi(argv[1]);
     int entero2 = atoi(argv[2]);
     int entero3 = atoi(argv[3]);
